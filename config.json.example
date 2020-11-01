@@ -1,0 +1,6 @@
+{
+    "label": "BOT_PROCESSED",
+    "threadQuery": "",
+    "maxResults": 100,
+    "chatId": "*insert chat id*"
+}
